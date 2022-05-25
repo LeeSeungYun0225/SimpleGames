@@ -1,0 +1,19 @@
+! ** JCreator Workspace File (C)2000
+! ********** DO NOT EDIT *********
+
+VERSION := "1.00"
+LABEL := "Puzzle"
+
+! Start Project Structure
+#[BeginProject]SOURCE := "Puzzle.jcp" #[EndProject]
+
+! Start Last Document Structure
+#[BeginFile]SOURCE := "Puzzle.java" #[EndFile]
+#[BeginFile]SOURCE := "Puzzle2.java" #[EndFile]
+#[BeginFile]SOURCE := "Puzzle3.java" #[EndFile]
+#[BeginFile]SOURCE := "PuzzleTest.java" #[EndFile]
+#[BeginFile]SOURCE := "Puzzle4.java" #[EndFile]
+#[BeginFile]SOURCE := "Puzzle5.java" #[EndFile]
+
+! Start Last Document Structure
+

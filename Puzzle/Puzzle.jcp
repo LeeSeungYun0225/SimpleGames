@@ -1,0 +1,26 @@
+! ** JCreator Project File (C)2000
+! ********** DO NOT EDIT *********
+
+VERSION := "1.10"
+LABEL := "Puzzle"
+JDKPROFILE := ""
+ACTIVE := "1"
+OUTPUTPATH := "classes"
+COMPILER := ""
+
+! Start RunTime Configuration Structure
+#[BeginRunTime]LABEL := "<Default>" RUNAPPLIC := "" RUNAPPLET := "" PARAM := "" RUN := "PuzzleTest" CHECK := "10" #[EndRunTime]
+! Start Required Libraries Structure
+
+! Start Project Folder Structure
+#[BeginFolder]
+LABEL := "Root"
+FILTER := ""
+
+#[BeginFile]SOURCE := "Puzzle5.java" #[EndFile]
+#[BeginFile]SOURCE := "Puzzle4.java" #[EndFile]
+#[BeginFile]SOURCE := "Puzzle3.java" #[EndFile]
+#[BeginFile]SOURCE := "Puzzle.java" #[EndFile]
+#[BeginFile]SOURCE := "PuzzleTest.java" #[EndFile]
+#[BeginFile]SOURCE := "Puzzle2.java" #[EndFile]
+#[EndFolder]
